@@ -16,7 +16,7 @@ ChatX is a versatile chat server project designed for easy setup and deployment,
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/chatX.git
+   git clone https://github.com/ky13-troj/chatX.git
    cd chatX
    ```
 2. Install dependencies:
