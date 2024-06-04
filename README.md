@@ -1,5 +1,7 @@
 # ChatX
 
+![chatX](https://github.com/ky13-troj/chatX/assets/72155617/4510d749-b795-4d2a-881d-aa1a92cc5607)
+
 ChatX is a versatile chat server project designed for easy setup and deployment, facilitating real-time communication with file sharing capabilities. By leveraging the power of Python and Ngrok, ChatX offers a seamless experience for both local and remote users. This project is ideal for developers, hobbyists, and small teams looking to implement a customizable chat solution.
 
 ## Features
