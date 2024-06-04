@@ -30,7 +30,7 @@ ChatX is a versatile chat server project designed for easy setup and deployment,
    bash run.sh
    ```
 
-## Setting Up Ngrok API Key
+## Setting Up Ngrok API Key token
 
 To use Ngrok with ChatX, you need to set up your Ngrok API key.
 
@@ -38,14 +38,16 @@ To use Ngrok with ChatX, you need to set up your Ngrok API key.
 1. Sign up for an account on [Ngrok](https://ngrok.com/).
 2. Once logged in, navigate to the [API Keys section](https://dashboard.ngrok.com/get-started/your-authtoken) in the Ngrok dashboard.
 3. Copy your API key.
-4. When prompted during the setup, enter your Ngrok API key. Alternatively, you can manually create a `credentials.json` file in the project directory with the following content:
+4. Remember Your api key token is shown only once in a dialogue box.
+5. Do Not use your API ID.
+6. When prompted during the setup, enter your Ngrok API key. Alternatively, you can manually create a `credentials.json` file in the project directory with the following content:
 
    ```json
    {
        "api_key": "your_ngrok_api_key"
    }
    ```
-5. The setup scripts will handle the rest, including generating and storing the authentication token.
+7. The setup scripts will handle the rest, including generating and storing the authentication token.
 
 ## Usage
 
